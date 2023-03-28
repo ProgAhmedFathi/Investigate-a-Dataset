@@ -23,7 +23,7 @@ I start by taking a look at the dataset and brainstorming what questions I could
 
 
 ## How did I complete this project?
-**1. Choose Your Data Set**
+#### 1. Choose Your Data Set
 Click this link (available in a Google doc here) to open a document with links and information about data sets that you can investigate for this project. You must choose one of these datasets to complete the project.
 
 **2 Get Organized**
