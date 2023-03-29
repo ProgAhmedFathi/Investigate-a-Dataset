@@ -7,6 +7,7 @@ In this project, I chose a dataset from offered datasets and I investigate it us
 Go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
 Use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier!
 
+## The Dataset
 You can find the dataset which I used on this link [Datasets](https://video.udacity-data.com/topher/2021/August/61138f17_databases/databases.zip).\
 I worked on "Database_No_show_appointments". So, to run the notebook correctly choose "Database_No_show_appointments" from the datasets and change the name of csv file to "Medical Appointment No Shows".
 
